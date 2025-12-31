@@ -1,4 +1,4 @@
-# Eduardo Pérez Sangabriel
+# Portfolio
 ## Short-Term Mine Planner | Mining & Metallurgical Engineer | Data & Digital Mining
 I am a Mining and Metallurgical Engineer currently working as a Short-Term Mine Planner in an open-pit gold operation. My professional background also includes experience as an Operational Excellence Engineer, where I specialized in data analytics, digitalization, and performance monitoring for mining and processing operations.
 My profile combines operational planning, data-driven analysis, and digital tool development, with a strong focus on creating solutions that are technically sound, operationally realistic, and scalable.
