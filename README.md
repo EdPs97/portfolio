@@ -52,7 +52,7 @@ These solutions support real-time and historical analysis, improve operational v
 **Operational and executive dashboards for mining performance**
 Dashboards designed to summarize production, consumption, and performance indicators, enabling fast, informed decision-making through interactive and multi-period analysis.
 🔗 Repository:
-https://github.com/EdPs97/mining-dashboards
+
 
 
 
@@ -65,7 +65,7 @@ Key use cases include:
 * Cyanide Flow Rate Capture for Leach Pad Optimization
 These applications are designed for harsh environments, support offline operation, and integrate directly with Power BI, Excel, and SAP workflows.
 🔗 Repository:
-https://github.com/EdPs97/smart-worker
+https://edps97.github.io/powerapps-in-mining
 
 
 
