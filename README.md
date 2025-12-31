@@ -52,7 +52,7 @@ These solutions support real-time and historical analysis, improve operational v
 **Operational and executive dashboards for mining performance**
 Dashboards designed to summarize production, consumption, and performance indicators, enabling fast, informed decision-making through interactive and multi-period analysis.
 
-🔗 Repository:[Mining Dashboards](https://edps97.github.io/miningdashboards/)
+🔗 Repository: [Mining Dashboards](https://edps97.github.io/miningdashboards/)
 
 
 
@@ -111,7 +111,7 @@ Side and exploratory projects focused on:
 ## Contact
 * GitHub: [EdPs97](https://github.com/EdPs97) 
 * LinkedIn: [Eduardo Pérez Sangabriel](https://www.linkedin.com/in/eduardo-p%C3%A9rez-9484631a0/)
-* Email: [Gmail](edusangabriel@gmail.com) 
+* Email: edusangabriel@gmail.com 
 
 
 
