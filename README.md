@@ -44,15 +44,15 @@ Key focus areas include:
 * Visualization through PI Vision and Power BI
 These solutions support real-time and historical analysis, improve operational visibility, and enable data-driven decision-making for production, processing, and management teams.
 
-🔗 Repository:https://edps97.github.io/pisystem-in-mining
+🔗 Repository: [PiSystem in Mining](https://edps97.github.io/pisystem-in-mining/)
 
 
 
 ### Mining Dashboards
 **Operational and executive dashboards for mining performance**
 Dashboards designed to summarize production, consumption, and performance indicators, enabling fast, informed decision-making through interactive and multi-period analysis.
-🔗 Repository:
 
+🔗 Repository:[Mining Dashboards](https://edps97.github.io/miningdashboards/)
 
 
 
@@ -64,8 +64,8 @@ Key use cases include:
 * Processing Plant Reagents Registration
 * Cyanide Flow Rate Capture for Leach Pad Optimization
 These applications are designed for harsh environments, support offline operation, and integrate directly with Power BI, Excel, and SAP workflows.
-🔗 Repository:
-https://edps97.github.io/powerapps-in-mining
+
+🔗 Repository: [Powerapps in Mining](https://edps97.github.io/powerapps-in-mining)
 
 
 
@@ -109,9 +109,9 @@ Side and exploratory projects focused on:
 ---
 
 ## Contact
-* GitHub: https://github.com/EdPs97
-* LinkedIn: https://www.linkedin.com/in/eduardo-p%C3%A9rez-9484631a0/
-* Email: edusangabriel@gmail.com
+* GitHub: [EdPs97](https://github.com/EdPs97) 
+* LinkedIn: [Eduardo Pérez Sangabriel](https://www.linkedin.com/in/eduardo-p%C3%A9rez-9484631a0/)
+* Email: [Gmail](edusangabriel@gmail.com) 
 
 
 
