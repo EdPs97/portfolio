@@ -30,7 +30,8 @@ My experience working directly with real mining data has significantly improved 
 ---
 
 ## Selected Projects
-A curated selection of projects that best represent my technical and professional focus.
+A selection of projects that best represent my technical and professional focus.
+
 
 ### PI System & AVEVA Connect – Operational Analytics Suite
 **Operational data modeling and analytics for mining operations**
@@ -45,11 +46,13 @@ These solutions support real-time and historical analysis, improve operational v
 🔗 Repository:
 https://github.com/EdPs97/pi-system-analytics
 
+
 ### Mining Dashboards
 **Operational and executive dashboards for mining performance**
 Dashboards designed to summarize production, consumption, and performance indicators, enabling fast, informed decision-making through interactive and multi-period analysis.
 🔗 Repository:
 https://github.com/EdPs97/mining-dashboards
+
 
 ### Smart Worker – Power Apps Suite 
 **Digital field data capture for mining operations**
@@ -62,7 +65,8 @@ These applications are designed for harsh environments, support offline operatio
 🔗 Repository:
 https://github.com/EdPs97/smart-worker
 
-### Data Analytics, ML & Optimization (Ongoing)
+
+#### Data Analytics, ML & Optimization (Ongoing)
 Applied analytics and modeling for mining operations
 Side and exploratory projects focused on:
 * Operational benchmarking
