@@ -22,7 +22,6 @@ This dual exposure allows me to understand both how plans are built and how oper
 In parallel with my operational role, I actively work on machine learning and AI-based projects as part of my continuous professional development.
 These initiatives focus on:
 * Applying supervised and unsupervised ML models to operational datasets
-* Using hands-on field data to improve feature engineering and model realism
 * Enhancing current workflows through automation, prediction, and anomaly detection
 * Exploring how AI can support planning, optimization, and operational excellence
 My experience working directly with real mining data has significantly improved how I design, validate, and interpret analytical models—bridging the gap between theoretical approaches and operational constraints.
@@ -66,15 +65,14 @@ These applications are designed for harsh environments, support offline operatio
 https://github.com/EdPs97/smart-worker
 
 
-#### Data Analytics, ML & Optimization (Ongoing)
-Applied analytics and modeling for mining operations
+### Data Analytics, ML & Optimization (Ongoing)
+Applied analytics and modeling for crushing operations
 Side and exploratory projects focused on:
 * Operational benchmarking
 * Predictive and anomaly-detection models
 * Optimization and decision-support concepts
-* Applying ML and AI to real operational datasets
-🔗 Repository:
-https://github.com/EdPs97
+* Applying ML and AI to real operational datasets in real-time
+
 
 --- 
 
