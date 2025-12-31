@@ -44,7 +44,7 @@ Key focus areas include:
 * Visualization through PI Vision and Power BI
 These solutions support real-time and historical analysis, improve operational visibility, and enable data-driven decision-making for production, processing, and management teams.
 🔗 Repository:
-https://github.com/EdPs97/pi-system-analytics
+[https://github.com/EdPs97/pi-system-analytics](https://edps97.github.io/pisystem-in-mining/) 
 
 
 
