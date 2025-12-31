@@ -32,6 +32,7 @@ My experience working directly with real mining data has significantly improved 
 A selection of projects that best represent my technical and professional focus.
 
 
+
 ### PI System & AVEVA Connect – Operational Analytics Suite
 **Operational data modeling and analytics for mining operations**
 A set of dashboards, data models, and analytical workflows built on OSIsoft PI System and AVEVA Connect, designed to centralize operational data and transform raw signals into actionable performance indicators.
@@ -46,11 +47,13 @@ These solutions support real-time and historical analysis, improve operational v
 https://github.com/EdPs97/pi-system-analytics
 
 
+
 ### Mining Dashboards
 **Operational and executive dashboards for mining performance**
 Dashboards designed to summarize production, consumption, and performance indicators, enabling fast, informed decision-making through interactive and multi-period analysis.
 🔗 Repository:
 https://github.com/EdPs97/mining-dashboards
+
 
 
 ### Smart Worker – Power Apps Suite 
@@ -63,6 +66,7 @@ Key use cases include:
 These applications are designed for harsh environments, support offline operation, and integrate directly with Power BI, Excel, and SAP workflows.
 🔗 Repository:
 https://github.com/EdPs97/smart-worker
+
 
 
 ### Data Analytics, ML & Optimization (Ongoing)
